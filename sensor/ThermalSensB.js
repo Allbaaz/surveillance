@@ -9,6 +9,6 @@ class ThermalSensorB {
         date: new Date().toISOString(),
     };
  } // Déclenche une donnée complexe json, voir ci dessous
-}
 
+}
 export { ThermalSensorB };
