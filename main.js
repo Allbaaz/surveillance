@@ -1,4 +1,4 @@
-import { Room } from "./room/Room.js";
+import { Room } from "./room/room.js";
 
 import { ConsoleObserver } from "./notifications/ConsoleObserv.js";
 import { EmailObserver } from "./notifications/EmailObserv.js";
